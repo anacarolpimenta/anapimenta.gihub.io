@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre Mim
-css: assets/css/aboutme.css
+css: /assets/css/aboutme.css
 ---
 ![foto](assets/img/AnaPimenta.jpeg)
 
