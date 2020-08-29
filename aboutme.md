@@ -10,6 +10,9 @@ Oi, aqui é a Ana, Futura Cientista de Dados!
 :alien:
 :rocket:
 
+<span class="ec ec-rofl"></span>
+
+
 Sou formada em **psicologia** e em **gestão de TI**. Demorou um pouquinho, mas sinto que finalmente descobri minha vocação!
 Desde que comecei a me envolver com ciência de dados, me senti cada vez mais apaixonada e motivada!
 E, sinceramente, é muito divertido "brincar" com Python e R para explorar e analisar os dados :satisfied: . Amo!!! :blue_heart: :heart: :purple_heart: :green_heart: :yellow_heart:
