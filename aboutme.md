@@ -3,7 +3,7 @@ layout: page
 title: Sobre Mim
 css: assets/css/aboutme.css
 ---
-![foto](assets/img/AnaP.jpeg)
+![foto](assets/img/AnaPimenta.jpeg)
 
 Oi, aqui é a Ana, Futura Cientista de Dados! :alien: :rocket:
 
