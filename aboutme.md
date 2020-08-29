@@ -2,6 +2,7 @@
 layout: page
 title: Sobre Mim
 css: /assets/css/aboutme.css
+subtitle: Um pouquinho sobre mim, Ana Pimenta!
 ---
 ![foto](assets/img/AnaPimenta.jpeg)
 
