@@ -5,13 +5,7 @@ css: /assets/css/aboutme.css
 ---
 ![foto](assets/img/AnaPimenta.jpeg)
 
-Oi, aqui é a Ana, Futura Cientista de Dados! 
-
-:alien:
-:rocket:
-
-<span class="ec ec-rofl"></span>
-
+Oi, aqui é a Ana, Futura Cientista de Dados! :alien: :rocket:
 
 Sou formada em **psicologia** e em **gestão de TI**. Demorou um pouquinho, mas sinto que finalmente descobri minha vocação!
 Desde que comecei a me envolver com ciência de dados, me senti cada vez mais apaixonada e motivada!
